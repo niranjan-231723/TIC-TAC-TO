@@ -1,11 +1,8 @@
 .game{
-    /* height:350px;
-    width:350px; */
     background-color:white;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* margin-left: 390px; */
     background-color: grey;
 
 
@@ -15,12 +12,10 @@
 .inner{
     height:310px;
     width:310px;
-    /* background-color:red; */
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
     gap:10px;
-    /* border-style: solid; */
     background-color: grey;
 
 }
@@ -61,7 +56,6 @@ body{
    display: flex;
    justify-content: center;
    font-size: medium;
-   /* background-color: rgb(47, 47, 55); */
   
 
 }
